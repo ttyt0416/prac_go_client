@@ -1,3 +1,5 @@
+import { useState, useEffect } from "react";
+
 export default function Home() {
-  return <p className="mt-40 w-full text-center cursor-pointer">HI</p>;
+  return <div className="mt-40 w-full text-center cursor-pointer"></div>;
 }
